@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head_nav{
+    gap: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: white;
+}
+.mag{
+    align-items: center;
+    display: flex;
+    gap: 8px;
+}
